@@ -1,0 +1,11 @@
+
+# Ignore .env file containing secrets
+.env
+
+# Ignore __pycache__ and other Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
