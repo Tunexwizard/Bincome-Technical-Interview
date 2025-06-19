@@ -12,8 +12,8 @@ This project analyzes color data and includes:
 - ✅ Supabase PostgreSQL storage with hidden password
 
 ## Files
-- `bincom_exam_solution.py`: main script
-- `.env`: contains your secret database URL (never upload to GitHub)
+- `bincom_test.py`: main script
+
 
 ## Setup Instructions
 
@@ -32,4 +32,4 @@ SUPABASE_DB_URL=postgresql://postgres:yourpassword@aws-0-eu-west-1.pooler.supaba
 python bincom_exam_solution.py
 ```
 
-🛡️ Keep `.env` private. Use `.gitignore` to exclude it from version control.
+
