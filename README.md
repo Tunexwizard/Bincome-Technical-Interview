@@ -25,6 +25,8 @@ pip install python-dotenv psycopg2
 2. Add your Supabase DB password inside `.env`:
 ```
 SUPABASE_DB_URL=postgresql://postgres:yourpassword@aws-0-eu-west-1.pooler.supabase.com:6543/postgres
+SUPABASE_DB_URL=postgresql://postgres:%40ProudBot99@aws-0-eu-west-1.pooler.supabase.com:6543/postgres
+
 ```
 
 3. Run your script:
